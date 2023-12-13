@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-vanilla-css-and-flexbox-bE8ZbzUI6h)
 - Live Site URL: [Hosted on GithubPages](https://greencitrus6.github.io/FM-QR-Component/)
 
 ## My process
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In order to keep the component looking similar in both mobile and desktop views, I used the aspect-ratio property to specify a desired shape, then used max-width to ensure that the window did grow past the desired size. 
+In order to keep the component looking similar in both mobile and desktop views, I used the aspect-ratio property to specify a desired shape, then used max-width to ensure that the window did not grow past the desired size. 
 
 I also encountered the issue of colors looking different on my monitors, so I made sure to check both the provided design and my own design on the same monitor to ensure they looked similar.
 
