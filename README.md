@@ -52,5 +52,5 @@ In terms of improving at styling, I'd like to get more comfortable using Tailwin
 
 ## Author
 
-- Website - [Daniel Aadland](https://portfolio-website-rgm2jbtrb-greencitrus6s-projects.vercel.app/) 
+- Website - [Daniel Aadland](https://portfolio-website-git-main-greencitrus6s-projects.vercel.app/) 
 - Frontend Mentor - [@GreenCitrus6](https://www.frontendmentor.io/profile/yourusername)
